@@ -33,9 +33,15 @@ scikit_learn
 ### MODEL
 <div style="text-align:center"><img src ="model.png" ,width=720/></div>
 
-### USAGE
-This project includes experiments using the Cora and Citeseer datasets.
+### DATASET
+We provide preprocessed files for the Cora dataset, which can be directly used for running. You can also train your own models through 'data/pretrain.py'.
 
+Due to file size limitations, the remaining datasets can be obtained through the following link.
+
+链接：https://pan.baidu.com/s/1yoyNUPzMdqAPtn3M3m7U_Q 
+
+提取码：0926
+### USAGE
 To run it, execute AEGAN/aegan.py. 
 
 If you need to perform experiments again, follow these steps: 
